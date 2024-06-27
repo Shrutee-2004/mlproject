@@ -1,7 +1,7 @@
-**###Students Marks Predictor and Visualizer**
+**#####Students Marks Predictor and Visualizer#####**
+ =============
 
-
-**##The dataset**: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+**#The dataset#**: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
 
 **The goal is to predict marks of a student based on various models as listed below**:
 Linear Regression
@@ -86,7 +86,7 @@ Target variable : math score(a future test)
 
 
 
-**####APPOARCH OF THE PROJECT**
+**####APPOARCH OF THE PROJECT####**
 
 
 **Data Ingestion :**
@@ -117,7 +117,7 @@ Flask app is created with User Interface to predict and visualize the marks of a
 
 
 
-**###STEPS TO RUN IN YOUR COMPUTER**
+**###STEPS TO RUN IN YOUR COMPUTER###**
 
 1. CLONE THE REPO IN YOUR LOCAL DEVICE.
 2. RUN THE COMMAND : python -u "c:\Users\Lenovo\Desktop\mlproject\app.py" (MODIFY THE PATH AS REQUIRED)
